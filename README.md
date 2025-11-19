@@ -31,7 +31,7 @@ npm install
 npm start
 ```
 
-Aplikasi akan otomatis terbuka di browser pada http://localhost:8080
+Aplikasi akan otomatis terbuka di browser pada http://localhost:3000
 
 ### Perintah Lain
 
