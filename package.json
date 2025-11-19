@@ -1,0 +1,22 @@
+{
+  "name": "prediksi-cuaca-jombang",
+  "version": "1.0.0",
+  "description": "Sistem Prakiraan Cuaca Kabupaten Jombang - BMKG",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server . -p 8080 -o",
+    "dev": "http-server . -p 8080 -o",
+    "serve": "http-server . -p 8080"
+  },
+  "keywords": [
+    "weather",
+    "bmkg",
+    "jombang",
+    "cuaca"
+  ],
+  "author": "Universitas Brawijaya",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
