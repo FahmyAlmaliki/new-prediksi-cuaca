@@ -16,7 +16,7 @@
   ],
   "author": "Universitas Brawijaya",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "http-server": "^14.1.1"
   }
 }
